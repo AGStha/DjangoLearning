@@ -24,6 +24,7 @@ price_choices = {
     '800000': '$800,000',
     '900000': '$900,000',
     '1000000': '$1M+',
+    '1000': 'cheapest'
 }
 
 state_choices = {
@@ -83,5 +84,6 @@ state_choices = {
     'WA': 'Washington',
     'WI': 'Wisconsin',
     'WV': 'West Virginia',
-    'WY': 'Wyoming'
+    'WY': 'Wyoming',
+    'BG': 'Bagmati'
 }
