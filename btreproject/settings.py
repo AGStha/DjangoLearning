@@ -144,4 +144,5 @@ MESSAGE_TAGS = {
     messages.ERROR:'danger'
 
 }
+import django_heroku
 django_heroku.settings(locals())
